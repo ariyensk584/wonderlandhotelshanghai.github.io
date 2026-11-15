@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://wonderlandhotelshanghai.github.io/sitemap.xml
+Sitemap: https://wonderlandhotelshanghai.mkm.fan/sitemap.xml

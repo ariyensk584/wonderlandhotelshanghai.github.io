@@ -1,0 +1,17 @@
+媒体与署名说明
+
+1) 首页讲解视频
+- media/home-intro.mp4 是多段动态项目画面剪辑，配简体中文女性旁白与 captions-home-intro.vtt 字幕，不是单张照片延时视频。
+- 酒店画面来自用户先前提供的项目介绍视频；原片画面可能混有施工场景、效果图和动画。剪辑按用户要求裁掉画面角落标记；请勿把全部镜头描述成酒店现场实拍。
+- 侧边女性讲解画面来自 Mixkit 免费素材： “Weather presenter giving newsroom presentation on a green screen”，Contributor: arvizum。素材页面与许可：https://mixkit.co/free-stock-video/weather-presenter-giving-newsroom-presentation-on-a-green-screen-28292/ ，https://mixkit.co/license/#videoFree 。该女性不是酒店员工、代言人或实际项目讲解员；中文声音是独立合成配音，画面并非酒店官方内容。
+
+2) 专题短片
+- 五篇文章短片均由多段动态项目画面剪辑并配普通话旁白及简体中文字幕。视觉素材可能包含项目效果图或动画，页面没有将其统称为实景摄影。
+
+3) 网站照片
+- assets/images/overview-quarry.jpg 使用 Wikimedia Commons 的旧采石场照片： “Excavator at Digsite for InterContinental Shanghai Wonderland.jpg”，作者 Forgemind ArchiMedia，CC BY 2.0。详情与许可：https://commons.wikimedia.org/wiki/File:Excavator_at_Digsite_for_InterContinental_Shanghai_Wonderland.jpg 。图片说明指的是酒店建造前的采石场，不是建成后的酒店实景。
+- 其余带项目建筑的图片为项目介绍画面裁帧，可能是效果图、可视化或动画；已裁去角落标记，不作为全套现场摄影使用。
+
+4) 发布前权利核验
+- 需确认用户提供的项目介绍视频允许在公开网站及带广告的网站中剪辑、裁切、配音和展示。裁切画面标记不等于取得版权许可。若无权复用，请删除相关项目画面及其衍生视频，再替换为已获许可的素材。
+- Mixkit 与 Wikimedia 素材许可按其官方页面执行；页面中保留署名信息，修改时请同步更新本文件。
